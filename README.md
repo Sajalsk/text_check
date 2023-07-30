@@ -1,3 +1,7 @@
+![Screenshot 2023-07-30 233151](https://github.com/Sajalsk/text_check/assets/86351716/4535f1e8-acf6-48ff-a1ca-4fdc5f2e9828)
+![Screenshot 2023-07-30 233208](https://github.com/Sajalsk/text_check/assets/86351716/918e4211-3d8d-4b2c-b132-131862915103)
+![Screenshot 2023-07-30 233258](https://github.com/Sajalsk/text_check/assets/86351716/2e96823e-3501-4236-a325-615b9edc2983)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
